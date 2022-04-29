@@ -1,0 +1,15 @@
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\bin\Debug\TicTacToee.exe.config
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\bin\Debug\TicTacToee.exe
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\bin\Debug\TicTacToee.pdb
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\obj\Debug\TicTacToee.csproj.AssemblyReference.cache
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\obj\Debug\TicTacToee.csproj.SuggestedBindingRedirects.cache
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\obj\Debug\TicTacToee.Form1.resources
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\obj\Debug\TicTacToee.Properties.Resources.resources
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\obj\Debug\TicTacToee.csproj.GenerateResource.cache
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\obj\Debug\TicTacToee.csproj.CoreCompileInputs.cache
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\obj\Debug\TicTacToee.exe
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\obj\Debug\TicTacToee.pdb
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\bin\Debug\TicTacToee.exe.manifest
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\bin\Debug\TicTacToee.application
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\obj\Debug\TicTacToee.exe.manifest
+C:\Users\olvis\source\repos\TicTacToee\TicTacToee\obj\Debug\TicTacToee.application
